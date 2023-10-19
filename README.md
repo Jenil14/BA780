@@ -1,2 +1,2 @@
 # BA780
-Analyzing the Mortality Trends in the US
+Collaborators:  Jenil Shah, Ali Saadeddine, Rishabh Anand, Yu-Fang(Unice) Liao, Shivakumar Vinod, Rishita Chakraborty
